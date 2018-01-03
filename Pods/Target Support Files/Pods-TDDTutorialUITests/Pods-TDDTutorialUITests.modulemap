@@ -1,0 +1,6 @@
+framework module Pods_TDDTutorialUITests {
+  umbrella header "Pods-TDDTutorialUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
